@@ -48,3 +48,4 @@ def to_reduced_row_echelon_form(matrix):
             a.append(round(j, 1))
         final_matr.append(a)
     return final_matr
+print()
